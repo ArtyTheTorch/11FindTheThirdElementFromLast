@@ -1,0 +1,16 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\bin\Debug\11FindTheThirdElementFromLast.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\bin\Debug\11FindTheThirdElementFromLast.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\obj\x86\Debug\_11FindTheThirdElementFromLast.Form1.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\obj\x86\Debug\_11FindTheThirdElementFromLast.Properties.Resources.resources
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.csproj.GenerateResource.Cache
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.pdb
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.exe
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.pdb
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\bin\Debug\11FindTheThirdElementFromLast.exe
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\bin\Debug\11FindTheThirdElementFromLast.pdb
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\_11FindTheThirdElementFromLast.Form1.resources
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\_11FindTheThirdElementFromLast.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\11FindTheThirdElementFromLast\11FindTheThirdElementFromLast\obj\x86\Debug\11FindTheThirdElementFromLast.csproj.GenerateResource.Cache
